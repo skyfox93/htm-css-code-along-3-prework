@@ -15,5 +15,8 @@ figcaption {
   font-family: Georgia, "New Times Roman", serif;*/
   font: normal 0.75em/1.5em Else Swash Caps, cursive;
   color:#777;
+}
 
+.milk-text{
+  font: bold 2.6em 'Elsie Swash Caps, cursive';
 }
